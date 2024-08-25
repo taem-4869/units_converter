@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Units Converter</string>
+    <string name="millimeter">Millimeter</string>
+    <string name="centimeter">Centimeter</string>
+    <string name="meter">Meter</string>
+    <string name="kilometer">Kilometer</string>
+    <string name="inch">Inch</string>
+    <string name="feet">Feet</string>
+    <string name="yard">Yard</string>
+    <string name="mile">Mile</string>
+    <string name="length">Length</string>
+    <string name="weight">Weight</string>
+    <string name="temperatore">Temperature</string>
+    <string name="welcome_to_units_converter">Welcome to units converter</string>
+    <string name="milligram">Milligram</string>
+    <string name="gram">Gram</string>
+    <string name="kilo_gram">Kilogram</string>
+    <string name="ounce">Ounce</string>
+    <string name="pound">Pound</string>
+    <string name="stone">Stone</string>
+    <string name="celsius">Celsius</string>
+    <string name="fahrenheit">Fahrenheit</string>
+    <string name="kelvin">Kelvin</string>
+    <string name="From">from</string>
+    <string name="convert">Convert</string>
+    <string name="to">To</string>
+</resources>

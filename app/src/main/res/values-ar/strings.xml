@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">محول الوحدات</string>
+    <string name="millimeter">ميليمتر</string>
+    <string name="centimeter">سنتيمتر</string>
+    <string name="meter">متر</string>
+    <string name="kilometer">كيلومتر</string>
+    <string name="inch">إنش</string>
+    <string name="feet">قدم</string>
+    <string name="yard">ياردة</string>
+    <string name="mile">ميل</string>
+    <string name="length">الطول</string>
+    <string name="weight">الوزن</string>
+    <string name="temperatore">الحرارة</string>
+    <string name="welcome_to_units_converter">مرحبا بك في محول الوحدات</string>
+    <string name="milligram">ميليغرام</string>
+    <string name="gram">غرام</string>
+    <string name="kilo_gram">كيلوغرام</string>
+    <string name="ounce">أونصة</string>
+    <string name="pound">باوند</string>
+    <string name="stone">حجر</string>
+    <string name="celsius">سيليلوز</string>
+    <string name="fahrenheit">فهرنهايت</string>
+    <string name="kelvin">كيلفين</string>
+    <string name="From">من</string>
+    <string name="convert">حول</string>
+    <string name="to">إلى</string>
+</resources>
